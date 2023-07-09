@@ -20,7 +20,7 @@
     <a href="https://github.com/blakee-marcus/pizza-hunt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/blakee-marcus/pizza-hunt">View Demo</a>
+    <a href="https://lit-earth-22007.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/blakee-marcus/pizza-hunt/issues">Report Bug</a>
     ·
